@@ -2,3 +2,5 @@
 
 env.COMPONENT="shipping"
 maven()
+
+
